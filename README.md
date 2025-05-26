@@ -32,7 +32,7 @@ cd speech-to-text-transcriber
 
 python -m venv stt-env
 stt-env\Scripts\activate      # On Windows
-# source stt-env/bin/activate   # On macOS/Linux
+source stt-env/bin/activate   # On macOS/Linux
 
 3. Install Dependencies
 
