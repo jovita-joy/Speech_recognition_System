@@ -25,7 +25,6 @@ This project provides a simple and effective way to transcribe short audio clips
 
 1. Clone or Download the Repository
 
-```bash
 git clone https://github.com/yourusername/speech-to-text-transcriber.git
 cd speech-to-text-transcriber
 
