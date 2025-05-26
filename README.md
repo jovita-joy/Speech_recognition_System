@@ -23,17 +23,13 @@ This project provides a simple and effective way to transcribe short audio clips
 - Easy-to-understand and beginner-friendly.
 - No need for complex machine learning models or training.
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone or Download the Repository
+1. Clone or Download the Repository
 
 ```bash
 git clone https://github.com/yourusername/speech-to-text-transcriber.git
 cd speech-to-text-transcriber
 
-2. Set Up a Virtual Environment (Optional but Recommended)
+ 2. Set Up a Virtual Environment (Optional but Recommended)
 
 python -m venv stt-env
 stt-env\Scripts\activate      # On Windows
